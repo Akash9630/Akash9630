@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-&#x2B50; I'm self motivated<br>&#x2B50; I'm passionate about software development<br>&#x2B50; I enjoy creating eye-catching website designs<br>&#x2B50; I'm actively visualising the user experience perceptive<br>&#x2B50; I'm currently working on improving the quality and scalability of opensource code.(just started)<br>&#x2B50; good knowledge in Html, CSS, JavaScript<br>&#x2B50; In my project, I'm trying to improve the code and design patterns<br>&#x2B50; I'm especially interested in advanced patterns and features in the Reactjs that can make code more powerful and secure<br>&#x2B50; I'm always fascinated by technology<br><br><br><br><br><br>
+&#x2B50; I'm self motivated<br>&#x2B50; I'm passionate about software development<br>&#x2B50; I enjoy creating eye-catching website designs<br>&#x2B50; I'm actively visualising the user experience perceptive<br>&#x2B50; I'm currently working on improving the quality and scalability of opensource code.<br>&#x2B50; good knowledge in Html, CSS, JavaScript<br>&#x2B50; I'm especially interested in advanced patterns and features in the Reactjs that can make code more powerful and secure<br>&#x2B50; I'm always fascinated by technology<br><br><br><br><br><br>
 
 
 # 💻 Tech Stack:
